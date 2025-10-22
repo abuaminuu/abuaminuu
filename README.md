@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **abuaminuu/abuaminuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up? its Abubakar from Sokoto, Nigeria</h1>
 
 ###
 
-<p align="left">My name is Abubakar... and I'm a ..., from Sokoto, Nigeria ....</p>
 
 ###
 
