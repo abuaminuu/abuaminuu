@@ -26,11 +26,19 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">My name is ... and I'm a ..., from ....</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning System Scalability<br>🎯 Goals: Build Efficient Systems<br>🎲 Fun fact: ... Why did the code go to therapy? It had a lot of bugs!</p>
 
 ###
 
@@ -51,11 +59,16 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
-</div>
-
-###
-
-<div align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
 ###
