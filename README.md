@@ -5,7 +5,7 @@
 -->
 
 <h1 align="left">Hey 👋 What's up? its Abubakar from Sokoto, Nigeria</h1>
-###
+
 - 🔭 I’m currently working on: AIRBNB-CLONE-PROJECT
 - 🌱 I’m currently learning: Scalable Systems.
 
@@ -55,15 +55,6 @@
 ###
 
 
-## 🧠 Skills & Technologies
-
-### 🐍 Programming & Development
-- **Python** – strong understanding of async programming, data analysis, and web backend logic  
-- **Django** – building full-stack web applications (CS50W Network project, pagination, edit/like functionality)  
-- **JavaScript (ES6+)** – dynamic front-end features, DOM manipulation, and API integration  
-- **HTML5 & CSS3** – responsive design and clean layout structuring  
-- **SQL / SQLite / PostgreSQL** – database modeling, queries, and ORM integration  
-- **Git & GitHub** – version control, branching, and collaborative development  
 
 ### ⚙️ System & Tools
 - **Asyncio** – asynchronous programming and concurrency in Python  
@@ -71,10 +62,6 @@
 - **VS Code / Linux CLI** – workflow efficiency and automation  
 - **Debugging & Testing** – tracing logic errors, validating functionality, and ensuring reliability  
 
-### 📊 Data & Analysis
-- **Pandas / Matplotlib** – data cleaning, analysis, and visualization  
-- **Excel / Power BI** – reporting and trend analysis  
-- **Forecasting & Trend Evaluation** – interpreting datasets for performance insights  
 
 ### 🧾 Quality & Process Management
 - **ISO 9001:2015 Quality Management Systems (QMS)** – understanding audit principles and conformance evaluation  
