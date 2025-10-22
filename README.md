@@ -2,41 +2,12 @@
 
 <!--
 **abuaminuu/abuaminuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="left">Hey 👋 What's up? its Abubakar from Sokoto, Nigeria</h1>
-
 ###
-
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
+- 🔭 I’m currently working on: AIRBNB-CLONE-PROJECT
+- 🌱 I’m currently learning: Scalable Systems.
 
 <p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning System Scalability<br>🎯 Goals: Build Efficient Systems<br>🎲 Fun fact: ... Why did the code go to therapy? It had a lot of bugs!</p>
 
