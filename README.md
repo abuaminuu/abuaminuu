@@ -9,6 +9,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2012.<br>📚 I'm currently learning Scalable Systems<br>🎯 Goals: Build Efficient And Reliable Systems<br>🎲 Fun fact: Why did the code go to therapy? It had a lot of bugs!</p>
+Contact: https://www.linkedin.com/in/abuaminuu/
 
 ###
 
