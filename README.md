@@ -4,12 +4,11 @@
 **abuaminuu/abuaminuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="left">Hey 👋 What's up? its Abubakar from Sokoto, Nigeria</h1>
+<h1 align="left">Hey 👋 What's up, its Abubakar from Sokoto, Nigeria.</h1>
 
-- 🔭 I’m currently working on: AIRBNB-CLONE-PROJECT
-- 🌱 I’m currently learning: Scalable Systems.
+###
 
-<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning System Scalability<br>🎯 Goals: Build Efficient Systems<br>🎲 Fun fact: ... Why did the code go to therapy? It had a lot of bugs!</p>
+<p align="left">✨ Creating bugs since 2012.<br>📚 I'm currently learning Scalable Systems<br>🎯 Goals: Build Efficient And Reliable Systems<br>🎲 Fun fact: Why did the code go to therapy? It had a lot of bugs!</p>
 
 ###
 
@@ -40,6 +39,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -53,9 +56,6 @@
 </div>
 
 ###
-
-
-
 ### ⚙️ System & Tools
 - **Asyncio** – asynchronous programming and concurrency in Python  
 - **REST APIs** – development and consumption of RESTful endpoints  
